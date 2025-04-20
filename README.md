@@ -23,7 +23,7 @@ This repository presents a continual learning framework for unsupervised video a
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/continual-vad.git
+git clone https://github.com/vishalbanwari26/continual-vad.git
 cd continual-vad
 ```
 
