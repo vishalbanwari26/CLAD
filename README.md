@@ -21,15 +21,11 @@ This repository presents a continual learning framework for unsupervised video a
 
 ## 🖼️ Visualization of Anomaly Detection
 
-To better understand the performance differences between our models, we visualize the anomaly detection capa-
-bilities on the ”block” anomaly type in SpaceInvaders. Figures 1 and 2 show screenshots from our demonstration
-tool, where the pink rectangle represents the artificial block anomaly inserted into the game frame.
+To better understand the performance differences between our models, we visualize the anomaly detection capabilities on the ”block” anomaly type in SpaceInvaders. Figures 1 and 2 show screenshots from our demonstration tool, where the pink rectangle represents the artificial block anomaly inserted into the game frame.
 
 | ![Figure 1](https://raw.githubusercontent.com/vishalbanwari26/CLAD/main/assets/base_model_screenshot.png) | ![Figure 2](https://raw.githubusercontent.com/vishalbanwari26/CLAD/main/assets/continual_model_screenshot.png) |
 |:--:|:--:|
-| **Figure 1:** Base model detection of block anomaly in SpaceInvaders. The anomaly score (blue line) shows sharp
-spikes only at anomaly instances (red dashed line), but with limited sensitivity between anomalies. | **Figure 2:** Continual learning model detection of the same block anomaly. Note the consistently higher anomaly
-scores throughout the sequence and better alignment with ground truth, demonstrating improved sensitivity. |
+| **Figure 1:** Base model detection of block anomaly in SpaceInvaders. The anomaly score (blue line) shows sharp spikes only at anomaly instances (red dashed line), but with limited sensitivity between anomalies. | **Figure 2:** Continual learning model detection of the same block anomaly. Note the consistently higher anomaly scores throughout the sequence and better alignment with ground truth, demonstrating improved sensitivity. |
 
 
 
