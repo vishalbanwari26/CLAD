@@ -49,7 +49,7 @@ pip install -r requirements.txt
 Place the Atari VAD data(download - https://www.kaggle.com/datasets/benedictwilkinsai/atari-anomaly-dataset-aad/data) in the following structure:
 
 ```
-viper_rl_data/datasets/atari/AAD/
+datasets/atari/AAD/
 ├── clean/
 │   ├── BeamRiderNoFrameskip-v4/
 │   ├── SpaceInvadersNoFrameskip-v4/
